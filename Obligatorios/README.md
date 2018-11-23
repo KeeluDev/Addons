@@ -39,11 +39,12 @@ Proporciona un analisis en tiempo real del aggro de los jefes, para no terminar 
 
 
 
-
-
 BigWigs  : ( https://github.com/xorann/BigWigs/releases )
+
 Decursive : ( https://github.com/Zerf/Decursive )
+
 LunaUnitFrames: ( https://github.com/Aviana/LunaUnitFrames )
+
 KTM (O KLH, 2 archivos): ( https://github.com/Linae-Kronos/KLH-Threat-Meter-17.35 )
 
 
