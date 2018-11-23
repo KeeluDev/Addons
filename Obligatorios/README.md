@@ -5,6 +5,7 @@
 Proporciona timers y alertas de las habilidades de los bosses, para no morir tantas veces en algún boss.
  
 > /bw      (opciones)
+
 > /bwcl    (comandos)
 
 -------------------------------
@@ -14,7 +15,9 @@ Proporciona timers y alertas de las habilidades de los bosses, para no morir tan
 Simplifica demasiado (si, demasiado que lo hace muy fácil) el dispel y decurse de los debuffs en aliados, se pueden hacer listas de prioridad.
 
 > /dcrshow (mostrar ventana del add-on)
+
 > /dcroption (opciones)
+
 > /decursive (limpia a alguien en la lista, se puede bindear con una macro a una tecla)
 
 -------------------------------
@@ -23,6 +26,7 @@ Simplifica demasiado (si, demasiado que lo hace muy fácil) el dispel y decurse 
 Modifica los cuadros/frames de vida/maná/recurso para que sean movibles y más atractivos que los de Vanilla.
 
 > /luna menu   (menú para configurar)
+
 > /lunamo spellname (para hacer macros con mouseover, reemplazar spellname con un hechizo)
 
 -------------------------------
@@ -32,6 +36,7 @@ Proporciona un analisis en tiempo real del aggro de los jefes, para no terminar 
 
 
 > /ktm (muestra comandos)
+
 > /ktm gui show (mostrar ventana de ktm)
 
 
