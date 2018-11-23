@@ -2,10 +2,10 @@
 
 
 ### Theorycraft
-/tc (ver estadisticas detalladas)
+> /tc (ver estadisticas detalladas)
 
 ### Chronometer
-/chron config
+> /chron config
 
 
 
