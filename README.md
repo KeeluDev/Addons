@@ -1,4 +1,2 @@
-# Addons-Pack
-Addons Obligatorios y Recomendados para healers. (Exilio)
-
-
+## Addons-Pack
+## Addons Obligatorios y Recomendados para healers. (Exilio)
