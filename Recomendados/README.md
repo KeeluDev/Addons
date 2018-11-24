@@ -30,6 +30,8 @@ Permite cambiar de sets de ropa (util para cambiar de sets de resistencias y set
 ### Rabuff
 Permite analizar los buffs faltantes de la raid, maná y otras cosas personalizables en un cuadro muy compacto.
 
+> /rab show (mostrar)
+
 ### Clevermacro
 Puedes usar #showtooltip o que cuando hagas una macro de /cast te reconozca el spell. Se pueden usar condicionales para hacer macros. 
 
