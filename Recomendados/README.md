@@ -11,6 +11,7 @@ Permite bindear spells con los los clicks del cursor (mouseover) y es muy fácil
 ### Supermacro
 Permite mayor cantidad de macros y más grandes. También permite algunos comandos no posibles en vanilla  . (Ver página Git abajo)
 > /supermacro  (ayuda con unos pocos comandos)
+
 > /macro <macroname> (llamar macros con una macro)
 
 ### Chronometer
