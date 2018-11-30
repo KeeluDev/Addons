@@ -35,6 +35,8 @@ Permite analizar los buffs faltantes de la raid, maná y otras cosas personaliza
 ### Clevermacro
 Puedes usar #showtooltip o que cuando hagas una macro de /cast te reconozca el spell. Se pueden usar condicionales para hacer macros. 
 
+### ClassicSnowFall 
+Acelera los keybindings, ahora se activan al presionar y no cuando sueltas la tecla. Demasiado útil en algunos casos.
 
 ### NTmysfixloadingtimes 
 Reduce el tiempo de carga de los cambios de instances o zonas. (en especial al entrar/salir de dungeons o cambiar de zona)
