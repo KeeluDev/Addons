@@ -4,6 +4,7 @@ TotemTimers (Proporciona los timers y ticks de los totems, puede que algunas vec
 
 CallOfElements: (Proporciona una barra de totems y timers, ADVERTENCIA: puede bugearse con otros add-ons)
  > /coe config (configuración)
+ 
  > /coe list 
 
 
