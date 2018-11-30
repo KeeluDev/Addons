@@ -1,23 +1,26 @@
+OmniCC (pone timers a los cds de las barras y objetos)
+
+CleverMacro (Puedes usar #showtooltip o que cuando hagas una macro de /cast te reconozca el spell. Se pueden usar condicionales para hacer macros.)
+
+Chronometer (tracker de timers de efectos)
+
+  /chron config
+
+Theorycraft (Stats detallados de tu personaje)
+
+  /tc (ver estadisticas detalladas)
 
 
-Supermacro
+Rabuff (Data en tiempo real de la raid , como buffos y maná)
+
+  /rab show (mostrar)
+
+Supermacro (amplia número máximo de macros)
 
   /supermacro (ayuda con unos pocos comandos)
 
   /macro macroname (llamar macros con una macro)
 
-Chronometer
-
-  /chron config
-
-Theorycraft
-
-  /tc (ver estadisticas detalladas)
-
-
-Rabuff
-
-  /rab show (mostrar)
 
 
 Links:
@@ -38,3 +41,5 @@ Rabuff: https://github.com/dagochen/RABuff
 Clevermacro: https://github.com/DanielAdolfsson/CleverMacro
 
 NTmysfixloadingtimes: https://github.com/ericraio/vanilla-wow-addons/tree/master/n/ntmysFixLoadingTimes
+
+OmniCC: http://www.vanilla-addons.com/dls/omnicc/
