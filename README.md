@@ -8,7 +8,7 @@ En cada carpeta de la página de Github (al seleccionar una carpeta acá) están
 
 También agregué algunas descripciones y comandos básicos en forma de archivos de texto en cada carpeta para tenerlas como recordatorios breves.
 
-## Para los que no quieren descargar todo el pack y solo cosas individuales:
+## Para los que no quieren descargar todo el archivo .zip de Github y solo cosas individuales:
 
 https://drive.google.com/open?id=15MXlzO7pulzm53ok4spfMBhkGH7DKv7V
 
