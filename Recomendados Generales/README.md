@@ -37,8 +37,7 @@ Puedes usar #showtooltip o que cuando hagas una macro de /cast te reconozca el s
 
 
 ### NTmysfixloadingtimes 
-Reduce el tiempo de carga de los add-ons. (tiempo de carga que se usa para cargar cosas que no se usan de forma inmediata en realidad)
-
+Reduce el tiempo de carga de los cambios de instances o zonas. (en especial al entrar/salir de dungeons o cambiar de zona)
 
 
 
