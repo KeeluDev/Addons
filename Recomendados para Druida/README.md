@@ -1,6 +1,7 @@
 ## Pequeña Descripción y comandos básicos:
 
-### Druid Doctor: (reduce la cantidad de bindings necesarios por cada rango de spell, nuevas opciones de macros)
+### Druid Doctor: 
+reduce la cantidad de bindings necesarios por cada rango de spell, nuevas opciones de macros
  > /dd     (opciones)
  
  > /dd help  (ayuda con comandos)
