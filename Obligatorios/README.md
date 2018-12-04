@@ -39,12 +39,18 @@ Proporciona un analisis en tiempo real del aggro de los jefes, para no terminar 
 
 > /ktm gui show (mostrar ventana de ktm)
 
-### ResurrectionAnnounce
+### ResurrectionAnnounce:
+
+Anuncia por un canal de chat que vas a revivir a alguien, demasiado útil para no revivir al mismo y perder tiempo o simplemente cancelar ambos la resurrección al mismo tiempo (pasa muchas veces).
+
 > /sayres {chat|help} chat {number}
 
 Number (reemplazar):
+
 0: Dynamic (Party/Raid)
-1: Raid     
+
+1: Raid  
+
 2: Say
 
 > Ejemplo: /sayres chat 2 (configurado para que lo diga por /s)
