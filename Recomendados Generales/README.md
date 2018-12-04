@@ -69,6 +69,6 @@ Clevermacro: https://github.com/DanielAdolfsson/CleverMacro
 
 NTmysfixloadingtimes:  https://github.com/ericraio/vanilla-wow-addons/tree/master/n/ntmysFixLoadingTimes
 
-
+ClassicSnowFall: https://github.com/Linae-Kronos/Classic-Snowfall
 
 
