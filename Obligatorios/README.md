@@ -39,7 +39,15 @@ Proporciona un analisis en tiempo real del aggro de los jefes, para no terminar 
 
 > /ktm gui show (mostrar ventana de ktm)
 
+### ResurrectionAnnounce
+> /sayres {chat|help} chat {number}
 
+Number (reemplazar):
+0: Dynamic (Party/Raid)
+1: Raid     
+2: Say
+
+> Ejemplo: /sayres chat 2 (configurado para que lo diga por /s)
 
 
 ## Links:
@@ -52,7 +60,7 @@ LunaUnitFrames: ( https://github.com/Aviana/LunaUnitFrames )
 
 KTM (O KLH, 2 archivos): ( https://github.com/Linae-Kronos/KLH-Threat-Meter-17.35 )
 
-
+ResurrectionAnnounce :  https://gitlab.com/stokbaek/ResurrectionAnnounce
 
 
 
